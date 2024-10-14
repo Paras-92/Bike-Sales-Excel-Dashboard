@@ -2,7 +2,7 @@ Sure! Here's a sample README file for your GitHub project based on the informati
 
 ---
 
-# Bike Sales Data - Excek Dashboard
+# Bike Sales Data - Excel Dashboard
 
 ## Overview
 
